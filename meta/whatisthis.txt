@@ -1,0 +1,3 @@
+Right now, this is the product of an idle thought: use github for storing work in progress and tracking it somehow. Clearly, since this is all done in the open, it changes the stakes for processes of writing and basically makes it all weirdly visible. I have no idea if this will work or if I will even use it for anything, but it kind of makes sense. 
+
+Maybe if I end up actually using this, and I somehow get a research grant, I can pay to have the repo closed while I write my book. That's a weird idea, isn't it?

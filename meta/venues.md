@@ -31,3 +31,7 @@
  * Web: http://visiblelanguagejournal.com/
  * Submissions: http://visiblelanguagejournal.com/web/contribute
  * Notes: Obviously, many of my DISS sources come from here, so it makes sense to shoot for a submission. If nothing else, VL should be more interested in the specifically typographical/aesthetic features of my stuff.
+
+## Imagetext
+ * Web: http://english.ufl.edu/imagetext/
+ * Notes: Of course.

@@ -34,6 +34,10 @@ For me and my purposes here, I think a research agenda is a set of topics that I
 
 ## Quest for Saddam / Quest for Bush
 	> I don't know. This is pretty old. Could be used as detailed side example in something else, maybe.
+	
+	
+## Lost in Emulation
+	> Very yes.
 
 ----------------
 # Other Writing

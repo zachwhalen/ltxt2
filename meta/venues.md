@@ -2,13 +2,20 @@
 ## Eludamos
  * Location: http://www.eludamos.org/index.php/eludamos
  * Submissions Info: http://www.eludamos.org/eludamos/index.php/eludamos/about/submissions#onlineSubmissions
- * Notes: 
+ * Topics: games etc.
+ * Possible submission: AoVGI
+ * Notes: Seems to perhaps have a european focus, at least in terms of who's on the editorial board.
  
 ## DHQ
  
 ## Computational Culture
 
 ## Push
+ * Location: http://push.cwcon.org 
+ * Submissions: GitHub (Markdown)
+ * Topics: Source, Code, Source Code, Rhetoric
+ * Possible Submission: "Presenting Code"
+ * Notes:
 
 ## Game Studies
  

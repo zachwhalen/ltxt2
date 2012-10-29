@@ -11,7 +11,7 @@
 ## Computational Culture
  * Web: http://computationalculture.net
  * Submissions: http://computationalculture.net/submissions
- * Notes: Could be good for ROMSCrape article, someday.
+ * Notes: Could be good for ROMSCrape article, someday. Or maybe if I resurrect that CSS article.
 
 ## Push
  * Location: http://push.cwcon.org 

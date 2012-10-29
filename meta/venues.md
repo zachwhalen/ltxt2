@@ -9,6 +9,9 @@
 ## DHQ
  
 ## Computational Culture
+ * Web: http://computationalculture.net
+ * Submissions: http://computationalculture.net/submissions
+ * Notes: Could be good for ROMSCrape article, someday.
 
 ## Push
  * Location: http://push.cwcon.org 

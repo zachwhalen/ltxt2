@@ -35,3 +35,10 @@
 ## Imagetext
  * Web: http://english.ufl.edu/imagetext/
  * Notes: Of course.
+
+## NMEDIAC
+ * Web: http://www.ibiblio.org/nmediac/
+
+## Journal of Interactive Pedagogy
+ * Web: http://jitp.commons.gc.cuny.edu/
+ * Notes: Probably submitting our #hol11 piece here, if we ever finish it.
